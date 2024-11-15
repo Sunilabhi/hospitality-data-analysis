@@ -53,7 +53,10 @@ This dashboard was developed to address these challenges and provide a centraliz
   The framework can be extended to include additional properties or dimensions like customer demographics or marketing channels.
 
 ---
+## Interactive Dashboard
+Explore the interactive dashboard [here](https://app.powerbi.com/reportEmbed?reportId=44703d73-66e0-448c-8d6c-6f5e1757878f&autoAuth=true&ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0).
 
+---
 
 ## Conclusion
 This dashboard is a valuable tool for hospitality managers and decision-makers to track, analyze, and optimize property performance. By leveraging the insights provided, businesses can enhance profitability, improve customer satisfaction, and stay competitive in the market.
